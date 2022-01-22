@@ -1,0 +1,2 @@
+# block internal request only
+dns.msftncsi.com
