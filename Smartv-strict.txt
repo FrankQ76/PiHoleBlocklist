@@ -1,1 +1,13 @@
+# Netflix
+# secure, api-global, and appboot break Netflix
+secure.netflix.com                   
+api-global.netflix.com
+appboot.netflix.com
+nrdp.nccp.netflix.com # Netflix playback fails on Humax DTR-T2100 (YouView) STB
+ichnaea.netflix.com
+customerevents.netflix.com
+nrdp.prod.ftl.netflix.com  # https://oisd.nl/excludes.php?w=nrdp.prod.ftl.netflix.com
 
+
+# Spotify
+api-tv.spotify.com # required for TV and PS4 spotify app
